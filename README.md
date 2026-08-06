@@ -58,3 +58,4 @@ Re-running `fetch_mlb_data.py` later in the season just adds newly completed gam
 ## Notes
 
 Since this is an ongoing season, the numbers above are a snapshot as of the last data pull, not a final-season result.
+The script to fetch the data from mlb was made using claude not me.
